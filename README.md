@@ -73,8 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/aju001/AJU-SER-AUTO-FILTER-BOT/blob/main/app.json">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/AJU-SER-AUTO-FILTER-BOT)
 </a>
 </p>
 </details>
