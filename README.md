@@ -65,15 +65,11 @@ OR
 
 #### PR's Are Very Welcome
 
-## Deploy
-You can deploy this bot anywhere.
+#### Deploy To Heroku
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/AJU-SER-AUTO-FILTER-BOT)
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
