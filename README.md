@@ -74,9 +74,6 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aju001/AJU-SER-AUTO-FILTER-BOT)
-</a>
-</p>
-</details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
